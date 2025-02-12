@@ -9,7 +9,7 @@
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS"/>
     </project>
 
-    <project groups="buildsupport" name="meta-rdk-auxiliary" path="rdke/common/meta-rdk-auxiliary" remote="rdke" revision="refs/tags/4.1.3">
+    <project groups="buildsupport" name="meta-rdk-auxiliary" path="rdke/common/meta-rdk-auxiliary" remote="rdke" revision="refs/tags/4.1.5">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_RDK_AUXILIARY"/>
     </project>
 
